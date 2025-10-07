@@ -8,17 +8,17 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://swat-ds.github.io/liblab_peace_collections
+url: https://swat-ds.github.io/material-culture
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /liblab_peace_collections
+baseurl: /material-culture
 # location of code, the full url to your github repository
-source-code: https://github.com/swat-ds/liblab_peace_collections/
+source-code: https://github.com/swat-ds/material-culture/
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Peacebuilding Legacies
+title: Object, Media, Matter - Introduction to Material Culture and Material Histories
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Greatest Hits from the Swarthmore College Peace Collection
 # description appears in meta tags and other locations

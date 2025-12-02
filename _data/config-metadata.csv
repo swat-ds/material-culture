@@ -3,7 +3,7 @@ title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 date_archival,Archival Date,,,,
 date_is_approximate,Date is approximate?,,,,
-date,Date (ISO),,,DCTERMS.date,dateCreated
+date,Date,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 object_story,Object Story,,,,
 bio,Biography,,,,

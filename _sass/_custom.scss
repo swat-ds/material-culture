@@ -16,3 +16,18 @@
 .btn-outline-primary, .btn-outline-pride-gold {
     color: #191919;
 }
+
+// changes color of nav link for accessibility 
+a.nav-link {
+    color:#191919;
+}
+
+// changes to banner bar behind title
+.bg-opacity-75 {
+    --bs-bg-opacity: 80;
+}
+
+.p-3 {
+  margin-right: 10rem;
+  margin-left: 10rem;
+}

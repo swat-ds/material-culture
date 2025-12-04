@@ -18,14 +18,14 @@ source-code: https://github.com/swat-ds/material-culture/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Object, Media, Matter - Introduction to Material Culture and Material Histories
+title: From Local to Global - Consumption and the Quaker Body
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Greatest Hits from the Swarthmore College Peace Collection
+tagline: Exhibition curated by the students of ARTH083 - Object, Media, Matter - Introduction to Material Culture and Material Histories, Fall 2025, Swarthmore College
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Archive of non-governmental efforts for nonviolent social change, disarmament, and conflict resolution."
+description: "Site created for the class ARTH083 taught by professor Susan Eberhard"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: swat; nice; lol; peace; collection;
+keywords: swat; quaker; collection; material;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: swat-ds
 
